@@ -1,0 +1,17 @@
+.swp
+.idea/
+.sass-cache/
+static/
+stats/
+errors/
+upload/
+*.tgz
+*.iml
+*.sql
+.htaccess
+.htaccess.swp
+.htpasswd
+sitemap*.xml
+site_checker*.log
+robots.txt
+cronlog.txt
